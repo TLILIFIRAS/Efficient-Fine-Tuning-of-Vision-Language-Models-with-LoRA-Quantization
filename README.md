@@ -4,6 +4,7 @@ This project demonstrates **parameter-efficient fine-tuning of large Vision-Lang
 The goal is to enable large multimodal models to understand and reason over **images and text**, even on modest hardware.
 
 ---
+![thumbnail](IMG.png)
 
 ## 📖 Project Overview
 
@@ -16,7 +17,7 @@ Vision-Language Models are transformers trained to process both **text and image
 This project focuses on fine-tuning these models **efficiently**, using techniques that reduce memory and computational requirements while maintaining high performance.
 
 ---
-![thumbnail](img.png)
+
 
 ## 🎯 Objectives
 
